@@ -1,0 +1,23 @@
+@keyframes floatAnimation {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+ 
+  
+  .animate-float {
+    animation: floatAnimation 2s ease-in-out infinite;
+    /* Set the background color to white */
+    border-radius: 50%; /* Make the icon circular */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add a bottom shadow */
+    /* Apply a 3D rotation effect */
+  }
+  
+  
+  

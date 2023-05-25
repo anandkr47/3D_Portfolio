@@ -43,6 +43,7 @@ import pingpong from "./pingpong.png";
 import imdb from "./imdb.png";
 import todo from "./todo.png";
 import Votex from "./Votex.png";
+import placementcell from "./placementcell.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -88,6 +89,7 @@ export {
   todo,
   imdb,
   Votex,
+  placementcell,
   carrent,
   jobit,
   tripguide,

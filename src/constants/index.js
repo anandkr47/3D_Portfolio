@@ -34,6 +34,7 @@ import {
   pingpong,
   todo,
   imdb,
+  placementcell,
   carrent,
   jobit,
   tripguide,
@@ -205,6 +206,37 @@ const testimonials = [
 ];*/
 const Minorprojects = [
   {
+    name: "Placement Cell",
+    description:
+      "Web based application  that allows the placement cell employees to add students , add interview,edit or delete student,post jobs,also created a job portal which will search jobs all over the india through location search.The Added student can view all the posted jobs and also the assigned tasks and interview dates provided by the placement cell.", 
+    tags: [
+      {
+        name: "MongoDB",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Express",
+        color: "green-text-gradient",
+      },
+      
+      {
+        name: "Node.js",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "ejs",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: placementcell,
+    source_code_link: "https://github.com/anandkr47/Placement-cell-admin",
+    live_link: "https://myplacement-cell.onrender.com",
+  },
+  {
     name: "Todo App",
     description:
       "Web based application  that allows users, to manage there work by storing it in todo app, you can add,edit,delete your tasks in this app with different catogries.",
@@ -355,7 +387,7 @@ const projects = [
     source_code_link: "https://github.com/anandkr47/Online-VotingSystem-in-Blockchain",
   },
   {
-    name: "Heakthcare App",
+    name: "Healthcare App",
     description:
       "Web application that enables users to take Appointment from doctors online, view and edit Appointments, and locate available hospitals on their current location.",
     tags: [

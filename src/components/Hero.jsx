@@ -42,7 +42,7 @@ const Hero = () => {
                 .typeString("a Data Analyst")
                 .pauseFor(800)
                 .deleteAll()
-                .typeString("Well, I'm a lot of things")
+                .typeString("Well, I do lot of things")
                 .pauseFor(800)
                 .deleteAll()
                 .typeString("Welcome to my World ")

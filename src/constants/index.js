@@ -208,7 +208,7 @@ const Minorprojects = [
   {
     name: "Placement Cell",
     description:
-      "Web based application  that allows the placement cell employees to add students , add interview,edit or delete student,post jobs,also created a job portal which will search jobs all over the india through location search.The Added student can view all the posted jobs and also the assigned tasks and interview dates provided by the placement cell.", 
+      "It allows the placement cell employees to add students,interview,edit or delete student,post jobs,also created a job portal with job search through location.Added student can view all the posted jobs, assigned tasks and interviews.", 
     tags: [
       {
         name: "MongoDB",

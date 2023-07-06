@@ -267,6 +267,37 @@ const Minorprojects = [
     source_code_link: "https://github.com/anandkr47/Placement-cell-admin",
     live_link: "https://myplacement-cell.onrender.com",
   },
+
+  {
+
+    name: "Online Book Store",
+    description:
+      "online book store! Built using the dynamic combination of Next.js, Sanity CMS, and Stripe payment gateway, This platform offers a convenient and secure way to explore and purchase your favorite books.", 
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Sanity.io",
+        color: "green-text-gradient",
+      },
+      
+      {
+        name: "Stripe",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+    
+    ],
+    image: bookstore,
+    source_code_link: "https://github.com/anandkr47/Sanity_bookstore",
+    live_link: "https://sanity-bookstore.vercel.app/",
+  },
+  
   {
     name: "Todo App",
     description:
@@ -298,7 +329,7 @@ const Minorprojects = [
     source_code_link: "https://github.com/anandkr47/Full_stack-ToDo_App",
     live_link: "https://full-stack-todo-app-bpzn.onrender.com/",
   },
-  {
+  /*{
     name: "Ping Pong Game",
     description:
       "It is a single player Ping Pong Game Website, which user can play both in mobiles and computers, automatic score updation using javascript algorithm.",
@@ -324,7 +355,7 @@ const Minorprojects = [
     image: pingpong,
     source_code_link: "https://github.com/anandkr47/Ping-Pong-Game",
     live_link: "https://pingpong-byanand.netlify.app/",
-  },
+  },*/
   {
     name: "Online Code Compiler",
     description:

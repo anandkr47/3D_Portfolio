@@ -35,6 +35,8 @@ import {
   todo,
   imdb,
   placementcell,
+  hotelbooking,
+  bookstore,
   carrent,
   jobit,
   tripguide,
@@ -206,6 +208,35 @@ const testimonials = [
 ];*/
 const Minorprojects = [
   {
+    name: "Hotel Booking",
+    description:
+      "hotel booking website! Created using the powerful combination of Next.js, TypeScript, Tailwind CSS, and Prisma DB, This platform offers a seamless and delightful experience for finding and booking your perfect hotel stay.",
+    tags: [
+      {
+        name: "Next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "PrismaDB",
+        color: "pink-text-gradient",
+      },
+      
+      {
+        name: "typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: " Tailwind CSS",
+        color: "pink-text-gradient",
+      },
+      
+    ],
+    image: hotelbooking,
+    source_code_link: "https://github.com/anandkr47/next13-hotelBooking",
+    live_link: "https://next-hotelbooking.vercel.app/",
+  },
+  {
+
     name: "Placement Cell",
     description:
       "It allows the placement cell employees to add students,interview,edit or delete student,post jobs,also created a job portal with job search through location.Added student can view all the posted jobs, assigned tasks and interviews.", 

@@ -44,6 +44,8 @@ import imdb from "./imdb.png";
 import todo from "./todo.png";
 import Votex from "./Votex.png";
 import placementcell from "./placementcell.png";
+import hotelbooking from "./hotelbooking.png";
+import bookstore from "./bookstore.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -90,6 +92,8 @@ export {
   imdb,
   Votex,
   placementcell,
+  hotelbooking,
+  bookstore,
   carrent,
   jobit,
   tripguide,
